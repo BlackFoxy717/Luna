@@ -11,4 +11,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Start Torrent
-      run: aria2c "${{ github.event.inputs.torrent}}
+      run: aria2c "${{ github.event.inputs.torrent}}"
