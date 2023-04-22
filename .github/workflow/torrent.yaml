@@ -1,4 +1,4 @@
-name: Mixed inputs
+name: Torrent 
 
 on:
   workflow_dispatch:
